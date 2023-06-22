@@ -1,0 +1,18 @@
+Commands		Number of commands handled 	 	Command name
+
+echo 				    2				  -n,  -E
+pwd				    2 				  -P,  -L
+cd				    1				    -P
+mkdir				    2				  -p,  -v
+cat				    2				  -n,  -E
+date 				    2 				  -u,  -R
+rm 				    2				  -i,  -v
+ls				    2 				  -A,  -r
+
+Assumptions:
+	   1) I have taken only one file input for cat command.
+	   2) no extra spaces between input like "lv  sdf" only like this "df vs".
+
+Invalid input has been handled in my code.
+
+ 	
