@@ -1,7 +1,7 @@
 Commands		Number of commands handled 	 	Command name
 
 echo 				    2				  -n,  -E
-pwd				    2 				  -P,  -L
+pwd				    2 				     
 cd				    1				    -P
 mkdir				    2				  -p,  -v
 cat				    2				  -n,  -E
